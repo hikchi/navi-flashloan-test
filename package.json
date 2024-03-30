@@ -1,0 +1,19 @@
+{
+  "name": "navi-lev-lend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mysten/sui.js": "^0.51.1",
+    "@scallop-io/sui-kit": "^0.44.2",
+    "dotenv": "^16.4.5",
+    "navi-sdk": "^1.1.13",
+    "process": "^0.11.10"
+  }
+}
